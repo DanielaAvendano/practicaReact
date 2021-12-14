@@ -1,15 +1,15 @@
-import Saludo from "./component/Saludo";
-import Persona from "./component/Persona";
-import Contador from "./component/Contador";
+
+import Formulario from "./component/Formulario";
 
 
 function App() {
   return (
     <div>
-      <Saludo></Saludo>
-      <Persona></Persona>
-      <Contador></Contador>
-   
+      
+  
+   <Formulario></Formulario>
+    
+    
     </div>
   );
 }

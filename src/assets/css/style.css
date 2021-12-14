@@ -1,0 +1,36 @@
+body{
+    background-color: #222222;
+    color: white;
+}
+
+.contenedor{
+    text-align: center;
+
+
+}
+.titulo{
+    font-size: 50px;
+}
+.boton{
+    width: 5%;
+    height: 50px;
+    font-size: 32px;
+    color: #222222;
+    border: none;
+}
+
+.botonizq{
+    background-color: grey;
+    margin-right: 1%;
+}
+.botonder{
+    background-color: hotpink;
+}
+
+.botonizq:hover{
+    background-color: indigo;
+}
+.botonder:hover{
+    background-color: lightcoral;
+}
+
