@@ -1,13 +1,12 @@
-
-import Formulario from "./component/Formulario";
+import Efecto from "./component/compra/Efecto"
 
 
 function App() {
   return (
     <div>
       
-  
-   <Formulario></Formulario>
+    <Efecto></Efecto>
+
     
     
     </div>
